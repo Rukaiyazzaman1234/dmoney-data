@@ -1,0 +1,18 @@
+{
+  "name": "dmoneu-user",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./report.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "i": "^0.3.7",
+    "newman": "^6.2.1",
+    "newman-reporter-htmlextra": "^1.23.1",
+    "npm": "^10.9.1"
+  }
+}

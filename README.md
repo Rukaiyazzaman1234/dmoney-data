@@ -1,10 +1,22 @@
-# About d-money project
-D-money is a transactional system where user can send money, payment and transaction
+# About dmoney-data
+
+*dmoney-data is a transactional and user management system where admin can create agent, multiple customer, merchant. 
+*There have the transaction between customer to customer.
+*System account can deposit to Agent
+*Agent can send money to other users (merchant,customer)
+*Customer can withdraw money
+*Customer can payment to merchant.
+*Agent can deposit to customers account
+*Agent,customer,merchant can check balance and statement
+*Admin and users can not login with wrong creds
+*Transaction can not be successful without valid info and without sufficient balance
 
 # Technology used:
-- postman
-- newman
-- nodejs
+- Postman
+- Newman
+- Visual studio code
+- node.js
+- git
 
 # How to run?
 - Clone this project

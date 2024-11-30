@@ -24,3 +24,6 @@ https://documenter.getpostman.com/view/39880661/2sAYBYe9uH
 #API Bug Report:
 https://docs.google.com/spreadsheets/d/1xSOxVyea6Kq04kYMbffKR53c8ZQnVk5nwQ9znKiZ6h0/edit?gid=1701974915#gid=1701974915
 
+#Test Case:
+https://docs.google.com/spreadsheets/d/1iWAQXCR2nKHDD6SoHXI1Dm6sf7aqeo1yoqQ007JPaN0/edit?gid=1338944949#gid=1338944949
+

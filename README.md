@@ -1,14 +1,24 @@
 # About dmoney-data
 
-dmoney-data is a transactional and user management system where admin can create agent, multiple customer, merchant. 
-There have the transaction between customer to customer.-System account can deposit to Agent
-Agent can send money to other users (merchant,customer)
-Customer can withdraw money
-Customer can payment to merchant.
-Agent can deposit to customers account
-Agent,customer,merchant can check balance and statement
-Admin and users can not login with wrong creds
-Transaction can not be successful without valid info and without sufficient balance
+DMoney-Data is a comprehensive transactional and user management system designed to facilitate financial interactions among different user roles: admin, agents, customers, and merchants.
+
+# Key Features:
+
+User Creation: Admin can create agents, multiple customers, and merchants.
+
+Transaction Types:
+* Customers can send money to each other.
+* Agents can transfer funds to customers and merchants.
+* Customers can withdraw money from their accounts and make payments to merchants.
+* Agents can deposit funds into customers' accounts.
+* Balance and Statement Access: Agents, customers, and merchants can check their account balances and transaction statements.
+Security Measures:
+
+* Invalid login attempts for admin and users are not permitted.
+* Transactions require valid information and sufficient balance to be processed successfully.
+* This structured system ensures efficient and secure financial transactions among users while providing robust management capabilities for administrators.
+
+
 
 # Technology used:
 - Postman
